@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+.Logo {
+    font-family: "Neucha";
+    font-size: 25px;
+    margin: 0px 150px 0px 30px;
+}
+
+.SearchFormBody {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px 60px;
+    width: 200px;
+    height: 25px;
+    position: relative;
+}
+
+.SearchForm {
+    position: absolute;
+    border: none;
+    left: 16px;
+    top: 7px;
+    width: 80%;
+    max-width: 80%;
+    align-items: left;
+}
+
+.RemoveSearchBtn {
+    position: absolute;
+    left: 290px;
+}
+
+.Results {
+    position: absolute;
+    top: 45px;
+    left: 10px;
+    margin: 0px 10px 0px 0px;
+    border: 1px solid black;
+    border-radius: 10px;
+    min-width: 100px;
+    min-height: 120px;
+    overflow-y: auto;
+    background-color: white;
+    list-style: none;
+}
+
+
+.OpenedResult {
+    color: purple;
+    border: none;
+    box-shadow: none;
+    background-color: white;
+    font-size: 20px;
+    margin: 10px;
+    text-align: left;
+}
+
+.OpenedResult:hover {
+    background-color: rgb(240, 240, 240);
+}
+
+.Result {
+    border: none;
+    box-shadow: none;
+    background-color: white;
+    font-size: 20px;
+    margin: 10px;
+    text-align: left;
+}
+
+.Result:hover {
+    background-color: rgb(240, 240, 240);
+}
+
+.ResultSvg {
+    padding: 0px 10px 0px 0px;
+}

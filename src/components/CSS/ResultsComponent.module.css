@@ -1,0 +1,48 @@
+.LineSearchComponent {
+    background-color: white;
+    border-bottom: 2px solid black;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    height: 5%;
+    display: flex;
+    flex-direction: row;
+    z-index: 1;
+}
+
+.Results {
+    position: absolute;
+    margin: 50px 0px 0px 0px;
+    list-style: none;
+}
+
+.Result {
+    margin: 10px 0px 0px 0px;
+    padding: 10px 0px 0px 30px;
+    max-width: 40%;
+}
+
+.ResultTitle {
+    font-size: 20px;
+}
+
+.ResultInfo {
+    padding: 5px 0px;
+    display: flex;
+    flex-direction: row;
+}
+
+.ResultDate {
+    margin: 0px 10px 0px 0px;
+}
+
+.ResultBody {
+    font-size: 17px;
+    padding: 0px 0px 0px 10px;
+    max-width: 60%;
+}
+
+.ZeroResults {
+    font-size: 30px;
+    margin: 20px 0px 0px 20px;
+}

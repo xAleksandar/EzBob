@@ -1,25 +1,42 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { SearchComponent } from './components/SearchComponent';
+import { ResultsComponent } from './components/ResultsComponent';
+import useDatabase from './hooks/useDatabase';
+import styles from './App.module.css';
 
 function App() {
+
+  const {
+    searchString, 
+    initialSearch, 
+    onSearchStringChange, 
+    removeFromMemory, 
+    possibleResults, 
+    search, 
+    searchResults
+  } = useDatabase();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      { searchResults.length == 0 && !initialSearch ? (
+        <div className={styles.SearchComponent}>
+          <SearchComponent 
+            searchString = {searchString}
+            onSearchStringChange = {onSearchStringChange}
+            possibleResults = {possibleResults}
+            search = {search}
+            removeFromMemory = {removeFromMemory}
+          />
+        </div>
+      ) : (
+        <ResultsComponent 
+          searchString={searchString} 
+          onSearchStringChange={onSearchStringChange} 
+          possibleResults={possibleResults} 
+          search={search} 
+          searchResults = {searchResults} 
+        />
+      )}
+    </>
   );
 }
 

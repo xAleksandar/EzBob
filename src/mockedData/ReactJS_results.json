@@ -1,0 +1,1306 @@
+[
+    {
+        "position": 1,
+        "title": "React \u2013 JavaScript-\u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f ...",
+        "link": "https://ru.reactjs.org/",
+        "displayed_link": "https://ru.reactjs.org",
+        "snippet": "\u0418\u043d\u0442\u0435\u0440\u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0439 JSX-\u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440. JSX? class HelloMessage extends React.Component { render() ...",
+        "sitelinks": {
+            "inline": [
+                {
+                    "title": "\u041d\u0430\u0447\u0430\u043b\u043e \u0440\u0430\u0431\u043e\u0442\u044b",
+                    "link": "https://ru.reactjs.org/docs/getting-started.html"
+                },
+                {
+                    "title": "\u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435: \u0437\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432\u043e \u0441 React",
+                    "link": "https://ru.reactjs.org/tutorial/tutorial.html"
+                },
+                {
+                    "title": "\u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432 \u0445\u0443\u043a\u0438",
+                    "link": "https://ru.reactjs.org/docs/hooks-intro.html"
+                },
+                {
+                    "title": "\u041f\u0440\u0438\u0432\u0435\u0442, \u043c\u0438\u0440",
+                    "link": "https://ru.reactjs.org/docs/hello-world.html"
+                }
+            ]
+        },
+        "about_this_result": {
+            "source": {
+                "description": "\u041f\u0435\u0440\u0432\u043e\u0435 \u0438\u043d\u0434\u0435\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u0430 ru.reactjs.org \u0440\u043e\u0431\u043e\u0442\u043e\u043c Google: February 2019.",
+                "source_info_link": "https://ru.reactjs.org/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76e508b85349bd026687732d2aefec72f5be2a46a99550acec43f5e648098c8412.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0-u43g85FJwJ:https://ru.reactjs.org/&cd=2&hl=ru&ct=clnk&gl=ru",
+        "related_results": [
+            {
+                "position": 1,
+                "title": "React \u2013 A JavaScript library for building user interfaces",
+                "link": "https://legacy.reactjs.org/",
+                "displayed_link": "https://legacy.reactjs.org",
+                "snippet": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just ...",
+                "about_this_result": {
+                    "source": {
+                        "description": "\u041f\u0435\u0440\u0432\u043e\u0435 \u0438\u043d\u0434\u0435\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u0430 legacy.reactjs.org \u0440\u043e\u0431\u043e\u0442\u043e\u043c Google: January 2023.",
+                        "source_info_link": "https://legacy.reactjs.org/",
+                        "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                        "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f7633156392fd9d3edd9b2098bc005c35c605be279d259b77f2c9b1de472a9579a5406191835daea7c2ac7f9c0ae2ff001fb58a3310de5d8dcc.png"
+                    }
+                },
+                "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Js0JTNZLSZgJ:https://legacy.reactjs.org/&cd=3&hl=ru&ct=clnk&gl=ru"
+            }
+        ],
+        "snippet_highlighted_words": null,
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 2,
+        "title": "React",
+        "link": "https://react.dev/",
+        "displayed_link": "https://react.dev",
+        "snippet": "React is a library. It lets you put components together, but it doesn't prescribe how to do routing and data fetching. To build an entire app with React, we ...",
+        "sitelinks": {
+            "inline": [
+                {
+                    "title": "Quick Start",
+                    "link": "https://react.dev/learn"
+                },
+                {
+                    "title": "Built-in React Hooks",
+                    "link": "https://react.dev/hooks"
+                },
+                {
+                    "title": "Tutorial: Tic-Tac-Toe",
+                    "link": "https://react.dev/learn/tutorial-tic-tac-toe"
+                },
+                {
+                    "title": "Describing the UI",
+                    "link": "https://react.dev/learn/describing-the-ui"
+                }
+            ]
+        },
+        "about_this_result": {
+            "source": {
+                "description": "\u041f\u0435\u0440\u0432\u043e\u0435 \u0438\u043d\u0434\u0435\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u0430 react.dev \u0440\u043e\u0431\u043e\u0442\u043e\u043c Google: July 2019.",
+                "source_info_link": "https://react.dev/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f7637492cac483db77ae1c7d9a2f396e45375c1ad907d68c9a018075ebf4b497dba.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6wQQd7lXspcJ:https://react.dev/&cd=4&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": null,
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 3,
+        "title": "React \u2013 JavaScript-\u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f ...",
+        "link": "https://ru.react.js.org/",
+        "displayed_link": "https://ru.react.js.org",
+        "snippet": "ru.reactjs.org (\u2b50 ...\u0438 \u043d\u0435 \u0437\u0430\u0431\u0443\u0434\u044c \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u00ab\u0437\u0432\u0451\u0437\u0434\u043e\u0447\u043a\u0443\u00bb \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u044e! \u2b50). React \u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044f\u0423\u0447\u0435\u0431\u043d\u0438\u043a\u0421\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e\u0411\u043b\u043e\u0433 (EN).",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u041f\u0435\u0440\u0432\u043e\u0435 \u0438\u043d\u0434\u0435\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u0430 ru.react.js.org \u0440\u043e\u0431\u043e\u0442\u043e\u043c Google: September 2018.",
+                "source_info_link": "https://ru.react.js.org/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76229a21fe2ea302e24a3500a9d5e2c0aab3b01eaa3831cbd138daeb7985170d38.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8Hu40eQ2aHAJ:https://ru.react.js.org/&cd=5&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "reactjs"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 4,
+        "title": "React - \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f",
+        "link": "https://ru.wikipedia.org/wiki/React",
+        "displayed_link": "https://ru.wikipedia.org \u203a wiki \u203a React",
+        "snippet": "React (\u0438\u043d\u043e\u0433\u0434\u0430 React.js \u0438\u043b\u0438 ReactJS) \u2014 JavaScript-\u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u0441 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u0438\u0441\u0445\u043e\u0434\u043d\u044b\u043c \u043a\u043e\u0434\u043e\u043c \u0434\u043b\u044f \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0445 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u0432.",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u0412\u0438\u043a\u0438\u043f\u0435\u0301\u0434\u0438\u044f \u2014 \u043e\u0431\u0449\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0430\u044f \u043c\u043d\u043e\u0433\u043e\u044f\u0437\u044b\u0447\u043d\u0430\u044f \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u0430\u044f \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f \u0441\u043e \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u043c \u043a\u043e\u043d\u0442\u0435\u043d\u0442\u043e\u043c, \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u043d\u0430 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0430\u0445 \u0432\u0438\u043a\u0438.\n\u0412\u043b\u0430\u0434\u0435\u043b\u0435\u0446 \u0441\u0430\u0439\u0442\u0430 \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u043d\u0435\u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u0430\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u00ab\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430\u00bb, \u0438\u043c\u0435\u044e\u0449\u0430\u044f 37 \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432.",
+                "source_info_link": "https://ru.wikipedia.org/wiki/React",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76fff9d6213fab71af9010fcb0d2d04ef5266c8552724b676109d4e8738e7f1662.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uDQPDMqXXQYJ:https://ru.wikipedia.org/wiki/React&cd=6&hl=ru&ct=clnk&gl=ru",
+        "related_results": [
+            {
+                "position": 1,
+                "title": "React (software) - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/React_(software)",
+                "displayed_link": "https://en.wikipedia.org \u203a wiki",
+                "snippet": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.",
+                "snippet_highlighted_words": [
+                    "React.js",
+                    "ReactJS"
+                ],
+                "rich_snippet": {
+                    "bottom": {
+                        "detected_extensions": {
+                            "stable_release_june_months": null
+                        },
+                        "extensions": [
+                            "Stable release: 18.2.0 / 14 June 2022; 9 months ...",
+                            "Original author(s): Jordan Walke",
+                            "Developer(s): Meta and community\u200e",
+                            "License: MIT License"
+                        ]
+                    }
+                },
+                "about_this_result": {
+                    "source": {
+                        "description": "\u0412\u0438\u043a\u0438\u043f\u0435\u0301\u0434\u0438\u044f \u2014 \u043e\u0431\u0449\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0430\u044f \u043c\u043d\u043e\u0433\u043e\u044f\u0437\u044b\u0447\u043d\u0430\u044f \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u0430\u044f \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f \u0441\u043e \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u043c \u043a\u043e\u043d\u0442\u0435\u043d\u0442\u043e\u043c, \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u043d\u0430 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0430\u0445 \u0432\u0438\u043a\u0438.\n\u0412\u043b\u0430\u0434\u0435\u043b\u0435\u0446 \u0441\u0430\u0439\u0442\u0430 \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u043d\u0435\u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u0430\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u00ab\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430\u00bb, \u0438\u043c\u0435\u044e\u0449\u0430\u044f 37 \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432.",
+                        "source_info_link": "https://en.wikipedia.org/wiki/React_(software)",
+                        "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                        "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f766d079b443d3970e6120fb6ce0f665c1e7f9104fba79523c0f7f1e9aec72f4a51ef11cd08633b439a03a15adfa56c1838dca62ac9865a1d9e.png"
+                    }
+                },
+                "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Fiz1iGC5gm0J:https://en.wikipedia.org/wiki/React_(software)&cd=7&hl=ru&ct=clnk&gl=ru"
+            }
+        ],
+        "snippet_highlighted_words": [
+            "React.js",
+            "ReactJS"
+        ],
+        "rich_snippet": {
+            "bottom": {
+                "extensions": [
+                    "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a: Meta Platforms, Jordan Walke, ...\u200e",
+                    "\u041f\u0435\u0440\u0432\u044b\u0439 \u0432\u044b\u043f\u0443\u0441\u043a: 29 \u043c\u0430\u044f \u200e2013\u200e",
+                    "\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430: \u043a\u0440\u043e\u0441\u0441\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0435\u043d\u043d...",
+                    "\u0422\u0438\u043f: \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e\u0435 \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0435 \u043e\u0431...",
+                    "Stable release: 18.2.0 / 14 June 2022; 9 months ...",
+                    "Original author(s): Jordan Walke",
+                    "Developer(s): Meta and community\u200e",
+                    "License: MIT License"
+                ],
+                "detected_extensions": {
+                    "\u041f\u0435\u0440\u0432\u044b\u0439_\u0432\u044b\u043f\u0443\u0441\u043a_\u043c\u0430\u044f": 29,
+                    "stable_release_june_months": null
+                }
+            }
+        },
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 5,
+        "title": "React (@reactjs) / Twitter",
+        "link": "https://twitter.com/reactjs",
+        "displayed_link": "https://twitter.com \u203a reactjs",
+        "snippet": "This new React app architecture is inspired by optimizations in the most-used apps on the planet; it uses the server and client each for what they're best at, ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u00ab\u0422\u0432\u0438\u0301\u0442\u0442\u0435\u0440\u00bb \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0441\u0435\u0440\u0432\u0438\u0441 \u043c\u0438\u043a\u0440\u043e\u0431\u043b\u043e\u0433\u043e\u0432 \u0438 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0435\u0442\u044c, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u043f\u0443\u0431\u043b\u0438\u043a\u0443\u044e\u0442 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f, \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u043a\u0430\u043a \u00ab\u0442\u0432\u0438\u0442\u044b\u00bb, \u0438 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0442 \u0441 \u043d\u0438\u043c\u0438. \u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0442 \u0441 \u00ab\u0422\u0432\u0438\u0442\u0442\u0435\u0440\u043e\u043c\u00bb \u0447\u0435\u0440\u0435\u0437 \u0431\u0440\u0430\u0443\u0437\u0435\u0440, \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u0447\u0435\u0440\u0435\u0437 API. \u0414\u043e \u0430\u043f\u0440\u0435\u043b\u044f 2020 \u0433\u043e\u0434\u0430 \u0441\u0435\u0440\u0432\u0438\u0441\u044b \u0431\u044b\u043b\u0438 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u044b \u0447\u0435\u0440\u0435\u0437 SMS.",
+                "source_info_link": "https://twitter.com/reactjs",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f769728666bcfc7963f2e1d159a007e0c9b895a0a2bea724ab8d53f84238deda495.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Qpy23KWIV2MJ:https://twitter.com/reactjs&cd=17&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": null,
+        "rich_snippet": null,
+        "related_pages_link": "https://www.google.com/search?q=related:https://twitter.com/reactjs+ReactJS",
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 6,
+        "title": "ReactJS \u2014 JavaScript library for interfaces creation / Habr",
+        "link": "https://habr.com/en/hub/reactjs/",
+        "displayed_link": "https://habr.com \u203a hub \u203a reactjs",
+        "snippet": "ReactJS is an open-source JavaScript library designed by Facebook for developing rich and engaging web apps efficiently and quickly with minimal ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u0425\u0430\u0431\u0440 \u2014 \u0440\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0439 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442 \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043a\u043e\u043b\u043b\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u0445 \u0431\u043b\u043e\u0433\u043e\u0432 \u0441 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043c\u0438 \u043d\u043e\u0432\u043e\u0441\u0442\u043d\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0439 \u0434\u043b\u044f \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438 \u043d\u043e\u0432\u043e\u0441\u0442\u0435\u0439, \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0441\u0442\u0430\u0442\u0435\u0439, \u043c\u044b\u0441\u043b\u0435\u0439, \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0445 \u0441 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u043c\u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f\u043c\u0438, \u0431\u0438\u0437\u043d\u0435\u0441\u043e\u043c \u0438 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u043e\u043c. \u041e\u0441\u043d\u043e\u0432\u0430\u043d \u0414\u0435\u043d\u0438\u0441\u043e\u043c \u041a\u0440\u044e\u0447\u043a\u043e\u0432\u044b\u043c \u0432 \u0438\u044e\u043d\u0435 2006 \u0433\u043e\u0434\u0430.",
+                "source_info_link": "https://habr.com/en/hub/reactjs/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f761186c96a2047a25a21860a19773f9c36105326ca6a7e1ea14231a542946c551a.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Hplw4dShY9EJ:https://habr.com/en/hub/reactjs/&cd=18&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "ReactJS"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": "5 \u043c\u0430\u0440. 2023 \u0433.",
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 7,
+        "title": "React.js \u0434\u043b\u044f \u043d\u043e\u0432\u0438\u0447\u043a\u043e\u0432 \u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438: \u0447\u0442\u043e \u044d\u0442\u043e, \u043a\u0430\u043a ...",
+        "link": "https://skillbox.ru/media/code/reactjs-dlya-novichkov-v-programmirovanii-chto-eto-kak-ustroen-i-zachem-nuzhen/",
+        "displayed_link": "https://skillbox.ru \u203a media \u203a code \u203a reactjs-dlya-novic...",
+        "snippet": "js. React.js \u2014 \u044d\u0442\u043e JavaScript-\u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u043e\u0442 \u00ab\u0424\u0435\u0439\u0441\u0431\u0443\u043a\u0430\u00bb* \u0434\u043b\u044f \u0443\u0434\u043e\u0431\u043d\u043e\u0439 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u0432, \u0442\u043e \u0435\u0441\u0442\u044c \u0432\u043d\u0435\u0448\u043d\u0435\u0439 \u0447\u0430\u0441\u0442\u0438 \u0441\u0430\u0439\u0442\u043e\u0432 \u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439, \u0441 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u0421\u0430\u0439\u0442 skillbox.ru \u0431\u044b\u043b \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u043f\u0440\u043e\u0438\u043d\u0434\u0435\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d Google \u0431\u043e\u043b\u0435\u0435 10 \u043b\u0435\u0442 \u043d\u0430\u0437\u0430\u0434.",
+                "source_info_link": "https://skillbox.ru/media/code/reactjs-dlya-novichkov-v-programmirovanii-chto-eto-kak-ustroen-i-zachem-nuzhen/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76c6feb61e9691a901c6a7cd4269ef76bbc361dfe744e8c4550ae3b093f342180d.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HsZ5awereAYJ:https://skillbox.ru/media/code/reactjs-dlya-novichkov-v-programmirovanii-chto-eto-kak-ustroen-i-zachem-nuzhen/&cd=19&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": "4 \u0434\u043d\u044f \u043d\u0430\u0437\u0430\u0434",
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 8,
+        "title": "React.js - \u0447\u0442\u043e \u044d\u0442\u043e \u0437\u0430 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u043e\u0432, \u0434\u043b\u044f \u0447\u0435\u0433\u043e \u043d\u0443\u0436\u043d\u0430",
+        "link": "https://blog.skillfactory.ru/glossary/react/",
+        "displayed_link": "https://blog.skillfactory.ru \u203a \u0421\u043b\u043e\u0432\u0430\u0440\u044c",
+        "snippet": "React.js \u2014 \u044d\u0442\u043e \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u0434\u043b\u044f \u044f\u0437\u044b\u043a\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f JavaScript \u0441 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u0438\u0441\u0445\u043e\u0434\u043d\u044b\u043c \u043a\u043e\u0434\u043e\u043c \u0434\u043b\u044f \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0445 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u0432.",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u041f\u0435\u0440\u0432\u043e\u0435 \u0438\u043d\u0434\u0435\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u0430 blog.skillfactory.ru \u0440\u043e\u0431\u043e\u0442\u043e\u043c Google: October 2013.",
+                "source_info_link": "https://blog.skillfactory.ru/glossary/react/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f762bcecbd0fc69a5c6c3ecd6465be3eff840395920650a4cc6bb8b150a0d9cb7cb.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4tOnbFKScaEJ:https://blog.skillfactory.ru/glossary/react/&cd=20&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": "27 \u043c\u0430\u0440. 2023 \u0433.",
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 9,
+        "title": "React JavaScript Tutorial in Visual Studio Code",
+        "link": "https://code.visualstudio.com/docs/nodejs/reactjs-tutorial",
+        "displayed_link": "https://code.visualstudio.com \u203a ...",
+        "snippet": "The Visual Studio Code editor supports React.js IntelliSense and code navigation out of the box. Welcome to React. We'll be using the create-react-app generator ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "Visual Studio Code \u2014 \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440 \u0438\u0441\u0445\u043e\u0434\u043d\u043e\u0433\u043e \u043a\u043e\u0434\u0430, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0439 Microsoft \u0434\u043b\u044f Windows, Linux \u0438 macOS. \u041f\u043e\u0437\u0438\u0446\u0438\u043e\u043d\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u00ab\u043b\u0451\u0433\u043a\u0438\u0439\u00bb \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440 \u043a\u043e\u0434\u0430 \u0434\u043b\u044f \u043a\u0440\u043e\u0441\u0441\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0435\u043d\u043d\u043e\u0439 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0432\u0435\u0431- \u0438 \u043e\u0431\u043b\u0430\u0447\u043d\u044b\u0445 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439.",
+                "source_info_link": "https://code.visualstudio.com/docs/nodejs/reactjs-tutorial",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76e04df6addb5a1ff9437a78033f0bad1223c5b467746e7bb6109333d29ae624da.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mM1BU1-EasEJ:https://code.visualstudio.com/docs/nodejs/reactjs-tutorial&cd=21&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 10,
+        "title": "\u0427\u0442\u043e \u0442\u0430\u043a\u043e\u0435 ReactJS - Web-Proger",
+        "link": "http://web.spt42.ru/index.php/chto-takoe-reactjs",
+        "displayed_link": "http://web.spt42.ru \u203a index.php \u203a chto-takoe-reactjs",
+        "snippet": "React (\u0438\u043d\u043e\u0433\u0434\u0430 React.js \u0438\u043b\u0438 ReactJS) \u2014 JavaScript-\u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u0441 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u0438\u0441\u0445\u043e\u0434\u043d\u044b\u043c \u043a\u043e\u0434\u043e\u043c \u0434\u043b\u044f \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0445 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u0432.",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u0421\u0430\u0439\u0442 spt42.ru \u0431\u044b\u043b \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u043f\u0440\u043e\u0438\u043d\u0434\u0435\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d Google \u0431\u043e\u043b\u0435\u0435 10 \u043b\u0435\u0442 \u043d\u0430\u0437\u0430\u0434.",
+                "source_info_link": "http://web.spt42.ru/index.php/chto-takoe-reactjs",
+                "security": "\u043d\u0435 \u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f760dc14adb6a2248d2376734573f98ec2a0e8f64ffe4d3e26ec011d157f621ce7a.jpeg"
+            }
+        },
+        "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:E9h5wthmOe0J:web.spt42.ru/index.php/chto-takoe-reactjs&cd=22&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js",
+            "ReactJS"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 11,
+        "title": "reactjs/react-rails: Integrate React.js with Rails views ... - GitHub",
+        "link": "https://github.com/reactjs/react-rails",
+        "displayed_link": "https://github.com \u203a reactjs",
+        "snippet": "Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker. - GitHub - reactjs/react-rails: Integrate React.js with Rails views ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "GitHub \u2014 \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0439 \u0432\u0435\u0431-\u0441\u0435\u0440\u0432\u0438\u0441 \u0434\u043b\u044f \u0445\u043e\u0441\u0442\u0438\u043d\u0433\u0430 IT-\u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 \u0438 \u0438\u0445 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e\u0439 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438.\n\u0412\u0435\u0431-\u0441\u0435\u0440\u0432\u0438\u0441 \u043e\u0441\u043d\u043e\u0432\u0430\u043d \u043d\u0430 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u0432\u0435\u0440\u0441\u0438\u0439 Git \u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d \u043d\u0430 Ruby on Rails \u0438 Erlang \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0435\u0439 GitHub, Inc.",
+                "source_info_link": "https://github.com/reactjs/react-rails",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f769c0d7961d76987f3b1e5553c0287ea05d5654b1dce6aa500e216589a0f0c4c60f8923d5e58743df9.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vIdD3VrKMSgJ:https://github.com/reactjs/react-rails&cd=23&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js",
+            "reactjs",
+            "React.js"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": "https://www.google.com/search?q=related:https://github.com/reactjs/react-rails+ReactJS",
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 12,
+        "title": "What is React - W3Schools",
+        "link": "https://www.w3schools.com/whatis/whatis_react.asp",
+        "displayed_link": "https://www.w3schools.com \u203a ...",
+        "snippet": "... Exercises PHP Exercises Java Exercises C Exercises C++ Exercises C# Exercises jQuery Exercises React.js Exercises MySQL Exercises Bootstrap 5 Exercises ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "W3Schools \u2014 \u044d\u0442\u043e \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442 \u0434\u043b\u044f \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f \u043a\u043e\u0434\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e \u043e\u043d\u043b\u0430\u0439\u043d. \u041f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e \u0432\u044b\u043f\u0443\u0449\u0435\u043d\u043d\u044b\u0439 \u0432 1998 \u0433\u043e\u0434\u0443, \u043e\u043d \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u0441\u0432\u043e\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043e\u0442 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043f\u0430\u0443\u0442\u0438\u043d\u044b, \u043d\u043e \u043d\u0435 \u0441\u0432\u044f\u0437\u0430\u043d \u0441 \u043a\u043e\u043d\u0441\u043e\u0440\u0446\u0438\u0443\u043c\u043e\u043c W3. \u041f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u043a\u0443\u0440\u0441\u044b \u043e\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u0432\u0441\u0435 \u0430\u0441\u043f\u0435\u043a\u0442\u044b \u0432\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u0443\u0431\u043b\u0438\u043a\u0443\u0435\u0442 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u0448\u0430\u0431\u043b\u043e\u043d\u044b HTML.",
+                "source_info_link": "https://www.w3schools.com/whatis/whatis_react.asp",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76023b8ab91b4690172955c97eadf4047cb79d8a5ad641e276adac439861d70a5f141169de1ceca48d.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OMMXOohbTAAJ:https://www.w3schools.com/whatis/whatis_react.asp&cd=24&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 13,
+        "title": "React JS Tutorial - Basic to Advance (2023) - YouTube",
+        "link": "https://www.youtube.com/watch?v=cd3P3yXyx30",
+        "displayed_link": "https://www.youtube.com \u203a watch",
+        "snippet": "There are 9 Courses in this Front End Development Specialization \u2b50\ufe0f (1) Introduction to Front-End Development ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "YouTube \u2014 \u0432\u0438\u0434\u0435\u043e\u0445\u043e\u0441\u0442\u0438\u043d\u0433, \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f\u043c \u0443\u0441\u043b\u0443\u0433\u0438 \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0438 \u0438 \u043f\u043e\u043a\u0430\u0437\u0430 \u0432\u0438\u0434\u0435\u043e. YouTube \u0441\u0442\u0430\u043b \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0435\u0439\u0448\u0438\u043c \u0432\u0438\u0434\u0435\u043e\u0445\u043e\u0441\u0442\u0438\u043d\u0433\u043e\u043c \u0438 \u0432\u0442\u043e\u0440\u044b\u043c \u0441\u0430\u0439\u0442\u043e\u043c \u0432 \u043c\u0438\u0440\u0435 \u043f\u043e \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0443 \u043f\u043e\u0441\u0435\u0442\u0438\u0442\u0435\u043b\u0435\u0439.",
+                "source_info_link": "https://www.youtube.com/watch?v=cd3P3yXyx30",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f7667d083aa1150eca37187ccc7a540a5769c805e15b7b31895f67a19507e79f0a2e60467dbbedc2403.png"
+            }
+        },
+        "cached_page_link": null,
+        "related_results": null,
+        "snippet_highlighted_words": null,
+        "rich_snippet": {
+            "top": {
+                "extensions": [
+                    "YouTube",
+                    "Nerd's lesson",
+                    "5 \u0444\u0435\u0432\u0440. 2023 \u0433."
+                ],
+                "detected_extensions": {
+                    "\u0444\u0435\u0432\u0440_\u0433": 5
+                }
+            }
+        },
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": "https://i.ytimg.com/vi/cd3P3yXyx30/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lxS7sM1ywjrNXbGV5bZXWLlbSUPw",
+        "key_moments": [
+            {
+                "time": "00:00",
+                "title": "Course Introduction",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=0"
+            },
+            {
+                "time": "06:04",
+                "title": "React Component and where they live",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=364"
+            },
+            {
+                "time": "36:39",
+                "title": "Component use and styling",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=2199"
+            },
+            {
+                "time": "01:01:30",
+                "title": "Dynamic events and how to handle them",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=3690"
+            },
+            {
+                "time": "01:19:58",
+                "title": "Data and Events",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=4798"
+            },
+            {
+                "time": "02:01:03",
+                "title": "Linking and Routing",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=7263"
+            },
+            {
+                "time": "02:19:19",
+                "title": "Using Assets in React",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=8359"
+            },
+            {
+                "time": "02:38:51",
+                "title": "Graded Assessment Calculator App",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=9531"
+            },
+            {
+                "time": "02:45:45",
+                "title": "Course Wrap Up",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=9945"
+            },
+            {
+                "time": "02:47:47",
+                "title": "Setting up VS code",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=10067"
+            },
+            {
+                "time": "02:53:26",
+                "title": "Course Introduction",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=10406"
+            },
+            {
+                "time": "03:08:39",
+                "title": "Rendering lists in React",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=11319"
+            },
+            {
+                "time": "03:24:42",
+                "title": "Forms in React",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=12282"
+            },
+            {
+                "time": "03:38:32",
+                "title": "React Context",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=13112"
+            },
+            {
+                "time": "03:53:34",
+                "title": "Getting Started with Hooks",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=14014"
+            },
+            {
+                "time": "04:18:12",
+                "title": "Rules of Hooks and Fetching Data with Hooks",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=15492"
+            },
+            {
+                "time": "04:36:43",
+                "title": "Advanced Hooks",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=16603"
+            },
+            {
+                "time": "04:47:32",
+                "title": "JSX Deep Dive",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=17252"
+            },
+            {
+                "time": "05:14:28",
+                "title": "Reusing behavior",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=18868"
+            },
+            {
+                "time": "05:28:37",
+                "title": "Integration Tests with React Testing Library",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=19717"
+            },
+            {
+                "time": "05:50:35",
+                "title": "Graded Assessment",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=21035"
+            },
+            {
+                "time": "06:00:33",
+                "title": "Course Wrap up",
+                "link": "https://www.youtube.com/watch?v=cd3P3yXyx30&t=21633"
+            }
+        ],
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQX2CUut3TNMetxdOdY2sLgza0nUPritUOVIg"
+    },
+    {
+        "position": 14,
+        "title": "Getting Started | React.js and Spring Data REST",
+        "link": "https://spring.io/guides/tutorials/react-and-spring-data-rest/",
+        "displayed_link": "https://spring.io \u203a tutorials \u203a r...",
+        "snippet": "This demo uses Java 8, Maven Project, and the latest stable release of Spring Boot. It also uses React.js coded in ES6. This will give you a clean, ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "Spring Framework \u2014 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0440\u0435\u0439\u043c\u0432\u043e\u0440\u043a \u0441 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u0438\u0441\u0445\u043e\u0434\u043d\u044b\u043c \u043a\u043e\u0434\u043e\u043c \u0434\u043b\u044f Java-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b. \u0422\u0430\u043a\u0436\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0444\u043e\u0440\u043a \u0434\u043b\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b .NET Framework, \u043d\u0430\u0437\u0432\u0430\u043d\u043d\u044b\u0439 Spring.NET.",
+                "source_info_link": "https://spring.io/guides/tutorials/react-and-spring-data-rest/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f7628b5653be45a04fc192d32f91fcedd4a91fa3adf188e39bb7c27c7eff0e2259e0a66960b70f51cb3.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AtgaMZX7hMoJ:https://spring.io/guides/tutorials/react-and-spring-data-rest/&cd=26&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": "https://www.google.com/search?q=related:https://spring.io/guides/tutorials/react-and-spring-data-rest/+ReactJS",
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 15,
+        "title": "ReactJS Tutorial - Javatpoint",
+        "link": "https://www.javatpoint.com/reactjs-tutorial",
+        "displayed_link": "https://www.javatpoint.com \u203a ...",
+        "snippet": "ReactJS is a declarative, efficient, and flexible JavaScript library for building reusable UI components. It is an open-source, component-based front end ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u0421\u0430\u0439\u0442 javatpoint.com \u0431\u044b\u043b \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u043f\u0440\u043e\u0438\u043d\u0434\u0435\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d Google \u0431\u043e\u043b\u0435\u0435 10 \u043b\u0435\u0442 \u043d\u0430\u0437\u0430\u0434.",
+                "source_info_link": "https://www.javatpoint.com/reactjs-tutorial",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76e37e3819e4a5c65cc4fc15dd447686140c48cb708082bed78ae88b848268e0717dc7b0508700b8f1.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2PlwboKMmtMJ:https://www.javatpoint.com/reactjs-tutorial&cd=27&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "ReactJS"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 16,
+        "title": "ReactJS Tutorials - GeeksforGeeks",
+        "link": "https://www.geeksforgeeks.org/reactjs-tutorials/",
+        "displayed_link": "https://www.geeksforgeeks.org \u203a ...",
+        "snippet": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It is an open-source, component-based ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u0421\u0430\u0439\u0442 geeksforgeeks.org \u0431\u044b\u043b \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u043f\u0440\u043e\u0438\u043d\u0434\u0435\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d Google \u0431\u043e\u043b\u0435\u0435 10 \u043b\u0435\u0442 \u043d\u0430\u0437\u0430\u0434.",
+                "source_info_link": "https://www.geeksforgeeks.org/reactjs-tutorials/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76c4757b51ad9e8bc5ca521ec9c2af067c13e34a65ee641553346a19ede475ea199a68c653c05e490e.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VwjEPO1wS44J:https://www.geeksforgeeks.org/reactjs-tutorials/&cd=28&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": null,
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": "10 \u043c\u0430\u0440. 2023 \u0433.",
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 17,
+        "title": "Getting started with React - Learn web development | MDN",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started",
+        "displayed_link": "https://developer.mozilla.org \u203a ...",
+        "snippet": "As its official tagline states, React is a library for building user interfaces. React is not a framework \u2013 it's not even exclusive to the web.",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "Mozilla \u2014 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u043e\u0435 \u0432 1998 \u0433\u043e\u0434\u0443 \u0447\u043b\u0435\u043d\u0430\u043c\u0438 Netscape, \u0437\u0430\u043d\u0438\u043c\u0430\u044e\u0449\u0435\u0435\u0441\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435\u043c \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f.",
+                "source_info_link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76b7d065ba6c7e1aa0ce52096dced8bed84f8b352c58f5d793f3195c3dc4b780cd41b0cb9b561054e0.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ACizMAOkplkJ:https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started&cd=29&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": null,
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": "23 \u0444\u0435\u0432\u0440. 2023 \u0433.",
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 18,
+        "title": "Learn React - Codecademy",
+        "link": "https://www.codecademy.com/learn/react-101",
+        "displayed_link": "https://www.codecademy.com \u203a ...",
+        "snippet": "About this course. React (sometimes spelled React.js or ReactJS) is one of the most popular JavaScript libraries to develop powerful, interactive web ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "Codecademy \u2014 \u0438\u043d\u0442\u0435\u0440\u0430\u043a\u0442\u0438\u0432\u043d\u0430\u044f \u043e\u043d\u043b\u0430\u0439\u043d-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u043f\u043e \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044e 12 \u044f\u0437\u044b\u043a\u0430\u043c \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f: Python, PHP, JavaScript, Ruby, Java \u0438 \u0434\u0440., \u0430 \u0442\u0430\u043a\u0436\u0435 \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u043e\u0439 jQuery \u0438 \u044f\u0437\u044b\u043a\u0430\u043c \u0440\u0430\u0437\u043c\u0435\u0442\u043a\u0438 \u0438 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u0432\u0435\u0431-\u0441\u0442\u0440\u0430\u043d\u0438\u0446\u044b HTML \u0438 CSS.",
+                "source_info_link": "https://www.codecademy.com/learn/react-101",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f7664ea0310d5c1731f4d2c22c69562504d9618f06083c23e76048e00a80ea0eaa3994ddb61cbd1d6d5.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PBE4pdEwrGMJ:https://www.codecademy.com/learn/react-101&cd=30&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js",
+            "ReactJS"
+        ],
+        "rich_snippet": {
+            "bottom": {
+                "questions": [
+                    "What is React?",
+                    "What does React do?"
+                ]
+            }
+        },
+        "related_pages_link": "https://www.google.com/search?q=related:https://www.codecademy.com/learn/react-101+ReactJS",
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 19,
+        "title": "React-Bootstrap \u00b7 React-Bootstrap Documentation",
+        "link": "https://react-bootstrap.github.io/",
+        "displayed_link": "https://react-bootstrap.github.io",
+        "snippet": "The most popular front-end framework, rebuilt for React.",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "GitHub \u2014 \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0439 \u0432\u0435\u0431-\u0441\u0435\u0440\u0432\u0438\u0441 \u0434\u043b\u044f \u0445\u043e\u0441\u0442\u0438\u043d\u0433\u0430 IT-\u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 \u0438 \u0438\u0445 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e\u0439 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438.\n\u0412\u0435\u0431-\u0441\u0435\u0440\u0432\u0438\u0441 \u043e\u0441\u043d\u043e\u0432\u0430\u043d \u043d\u0430 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u0432\u0435\u0440\u0441\u0438\u0439 Git \u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d \u043d\u0430 Ruby on Rails \u0438 Erlang \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0435\u0439 GitHub, Inc.",
+                "source_info_link": "https://react-bootstrap.github.io/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76530d3c49142485f066b996831e92ce3aea424933087999cb587ee029fcaaf2c23774a782e335b660.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:p1oIWr7kPhYJ:https://react-bootstrap.github.io/&cd=31&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": null,
+        "rich_snippet": null,
+        "related_pages_link": "https://www.google.com/search?q=related:https://react-bootstrap.github.io/+ReactJS",
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 20,
+        "title": "\u0427\u0442\u043e \u0442\u0430\u043a\u043e\u0435 React \u0438 \u043a\u0430\u043a \u0435\u0433\u043e \u043e\u0441\u0432\u043e\u0438\u0442\u044c? - \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u044f \u042f\u043d\u0434\u0435\u043a\u0441\u0430",
+        "link": "https://academy.yandex.ru/posts/chto-takoe-react-i-kak-ego-osvoit",
+        "displayed_link": "https://academy.yandex.ru \u203a posts \u203a chto-takoe-react-i...",
+        "snippet": "\u042d\u0442\u043e \u0432\u043e\u0441\u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430: \u043d\u0430 React.JS \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u044b \u042f\u043d\u0434\u0435\u043a\u0441, Netflix, Facebook \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u0441\u0435\u0440\u0432\u0438\u0441\u044b.",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u041f\u0435\u0440\u0432\u043e\u0435 \u0438\u043d\u0434\u0435\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u0430 academy.yandex.ru \u0440\u043e\u0431\u043e\u0442\u043e\u043c Google: October 2014.",
+                "source_info_link": "https://academy.yandex.ru/posts/chto-takoe-react-i-kak-ego-osvoit",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76cc0ce2c16a681a824e4cad49d5f4c8a6121966dbd86c42fa3fc5b474511132a125ee8709475430b6.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EhDz_Bs94O0J:https://academy.yandex.ru/posts/chto-takoe-react-i-kak-ego-osvoit&cd=32&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.JS"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": "29 \u043c\u0430\u0440. 2021 \u0433.",
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 21,
+        "title": "ReactJS.NET: React integration for ASP.NET MVC",
+        "link": "https://reactjs.net/",
+        "displayed_link": "https://reactjs.net",
+        "snippet": "ReactJS.NET makes it easier to use Facebook's React and JSX from C# and other .NET languages, focusing specifically on ASP.NET MVC (although it also works ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u041f\u0435\u0440\u0432\u043e\u0435 \u0438\u043d\u0434\u0435\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u0430 reactjs.net \u0440\u043e\u0431\u043e\u0442\u043e\u043c Google: January 2014.",
+                "source_info_link": "https://reactjs.net/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76a34d767cac9d9a063533c0938cbc47f17fc34bee9adc0b0f9ece534e4a2373d344a490a0d93370dc.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WApCDSswx1EJ:https://reactjs.net/&cd=33&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "ReactJS"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": "https://www.google.com/search?q=related:https://reactjs.net/+ReactJS",
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 22,
+        "title": "Enabling React.js (Symfony Docs)",
+        "link": "https://symfony.com/doc/current/frontend/encore/reactjs.html",
+        "displayed_link": "https://symfony.com \u203a encore",
+        "snippet": "Check out the React.js screencast series. Tip. Check out live demos of Symfony UX React component at https://ux.symfony.com/react! Using React?",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u0421\u0430\u0439\u0442 symfony.com \u0431\u044b\u043b \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u043f\u0440\u043e\u0438\u043d\u0434\u0435\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d Google \u0431\u043e\u043b\u0435\u0435 10 \u043b\u0435\u0442 \u043d\u0430\u0437\u0430\u0434.",
+                "source_info_link": "https://symfony.com/doc/current/frontend/encore/reactjs.html",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76ca403b4f77c8eafbe3e07edf3f9f3fcefe2669809be89cdfeab0998763d9a75998d231129ed9b29f.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AK4eeJ_Ew2MJ:https://symfony.com/doc/current/frontend/encore/reactjs.html&cd=34&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 23,
+        "title": "MUI: The React component library you always wanted",
+        "link": "https://mui.com/",
+        "displayed_link": "https://mui.com",
+        "snippet": "MUI provides a simple, customizable, and accessible library of React components. Follow your own design system, or start with Material Design.",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 mui.com.",
+                "source_info_link": "https://mui.com/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f761c1d80483440b36df7584e34d2f1aeb1df710de38caca1b61353f4bd90696534e470aedc17c2b4d7.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qGS0XBm0mLUJ:https://mui.com/&cd=35&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": null,
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 24,
+        "title": "Top React JS Courses Online - Updated [April 2023] - Udemy",
+        "link": "https://www.udemy.com/topic/react/",
+        "displayed_link": "https://www.udemy.com \u203a re...",
+        "snippet": "Join millions of learners on Udemy and take a React course. With React training from real world experts, you can learn to use this popular JavaScript ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 www.udemy.com.",
+                "source_info_link": "https://www.udemy.com/topic/react/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76c27738dadae4d3027e42f5145f23aff6d5827fd14fb805e63bdf28e5b3f854d51e78bf6e45072619.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FayQRpaUbeEJ:https://www.udemy.com/topic/react/&cd=36&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": null,
+        "rich_snippet": {
+            "bottom": {
+                "questions": [
+                    "What is React?",
+                    "How does React work?"
+                ]
+            }
+        },
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 25,
+        "title": "React Native \u00b7 Learn once, write anywhere",
+        "link": "https://reactnative.dev/",
+        "displayed_link": "https://reactnative.dev",
+        "snippet": "Find us. Blog \u00b7 Twitter \u00b7 GitHub. Explore More. ReactJS \u00b7 Privacy Policy \u00b7 Terms of Service \u00b7 Meta Open Source Logo. Copyright \u00a9 2023 Meta Platforms, Inc.",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 reactnative.dev.",
+                "source_info_link": "https://reactnative.dev/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f766cd9c4cb231c4ae1f28c8f7868f6fa52c04adf323ba3605a6ad7f4ae9e363ca491c7b99cac2be3ef.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FFf3jx-NrNIJ:https://reactnative.dev/&cd=37&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "ReactJS"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 26,
+        "title": "React.js Basics \u2013 The DOM, Components, and Declarative ...",
+        "link": "https://www.freecodecamp.org/news/reactjs-basics-dom-components-declarative-views/",
+        "displayed_link": "https://www.freecodecamp.org \u203a ...",
+        "snippet": "React.js is an open source JavaScript library for creating user interfaces. It was created by Facebook back in 2013.",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 www.freecodecamp.org.",
+                "source_info_link": "https://www.freecodecamp.org/news/reactjs-basics-dom-components-declarative-views/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76bf89ef79620d5d8e3654109c0daa4684f2f86c7acfbf731d18c76558d2f9c628a2d4cb0ac30c2685.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uI4ULIeoddEJ:https://www.freecodecamp.org/news/reactjs-basics-dom-components-declarative-views/&cd=38&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": "29 \u043c\u0430\u0440. 2022 \u0433.",
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 27,
+        "title": "Create React App",
+        "link": "https://create-react-app.dev/",
+        "displayed_link": "https://create-react-app.dev",
+        "snippet": "Set up a modern web app by running one command.",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 create-react-app.dev.",
+                "source_info_link": "https://create-react-app.dev/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NEcL3uRgxlMJ:https://create-react-app.dev/&cd=39&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": null,
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 28,
+        "title": "Introduction to ReactJS and Its Features - MindMajix",
+        "link": "https://mindmajix.com/introduction-to-react-js",
+        "displayed_link": "https://mindmajix.com \u203a intr...",
+        "snippet": "React is a popular JavaScript library used for web development. React.js or ReactJS or React are different ways to represent ReactJS.",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 mindmajix.com.",
+                "source_info_link": "https://mindmajix.com/introduction-to-react-js",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76df9ec338d2f1b52f52448db3e6b4208f8692920cfa5e3f7f24336c0ac7233d94e1ac891357d3fd8b.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DHIgYCEtXgYJ:https://mindmajix.com/introduction-to-react-js&cd=40&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js",
+            "ReactJS",
+            "ReactJS"
+        ],
+        "rich_snippet": {
+            "top": {
+                "detected_extensions": {
+                    "\u0420\u0435\u0439\u0442\u0438\u043d\u0433": 5,
+                    "\u043e\u0442\u0437\u044b\u0432\u043e\u0432": 7
+                },
+                "extensions": [
+                    "\u0420\u0435\u0439\u0442\u0438\u043d\u0433: 5",
+                    "\u200e7 480 \u043e\u0442\u0437\u044b\u0432\u043e\u0432"
+                ]
+            }
+        },
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 29,
+        "title": "The Best Guide to Know What Is React - Simplilearn",
+        "link": "https://www.simplilearn.com/tutorials/reactjs-tutorial/what-is-reactjs",
+        "displayed_link": "https://www.simplilearn.com \u203a ...",
+        "snippet": "1. What is React JS used for? ... ReactJS's primary goal is to create User Interfaces (UI) which enhance the speed of programs. It makes use of ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 www.simplilearn.com.",
+                "source_info_link": "https://www.simplilearn.com/tutorials/reactjs-tutorial/what-is-reactjs",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76b63719bdf03eefd0833649b633a4333299b7df141cd674e6f357b442d054ce0bda21e04fac0d5437.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BBgR9PG9KG8J:https://www.simplilearn.com/tutorials/reactjs-tutorial/what-is-reactjs&cd=41&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React JS",
+            "ReactJS's"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": "7 \u0444\u0435\u0432\u0440. 2023 \u0433.",
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 30,
+        "title": "ReactJS Tutorial - Tutorialspoint",
+        "link": "https://www.tutorialspoint.com/reactjs/index.htm",
+        "displayed_link": "https://www.tutorialspoint.com \u203a ...",
+        "snippet": "React is an open source, JavaScript library for developing user interface (UI) in web application. React is developed and released by Facebook.",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 www.tutorialspoint.com.",
+                "source_info_link": "https://www.tutorialspoint.com/reactjs/index.htm",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f769332aed38c8847fbc8cd3dc85d11581c9fa6ab3866fd1650e225290d3e542a0ddfd65c15ac0f39e3.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Baf7tSKsh78J:https://www.tutorialspoint.com/reactjs/index.htm&cd=42&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": null,
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 31,
+        "title": "ReactJS: \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u044f, \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f, \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043a ...",
+        "link": "https://vc.ru/dev/567245-reactjs-filosofiya-oblasti-primeneniya-trebovaniya-k-bekendu-i-vse-chto-nuzhno-znat-o-tehnologii-seychas",
+        "displayed_link": "https://vc.ru \u203a dev \u203a 567245-reactjs-filosofiya-oblasti-...",
+        "snippet": "\u0412 \u044d\u0442\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u043c\u044b \u0441\u043e\u0431\u0440\u0430\u043b\u0438 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0441\u0432\u043e\u0438\u0445 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432 \u043f\u043e ReactJS \u0438 \u0441\u043c\u0435\u0436\u043d\u044b\u043c \u0442\u0435\u043c\u0430\u043c \u0437\u0430 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 1,5 \u0433\u043e\u0434\u0430, \u0432 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0433\u043e\u0432\u043e\u0440\u0438\u043b\u0438 \u043e \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430\u0445 ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 vc.ru.",
+                "source_info_link": "https://vc.ru/dev/567245-reactjs-filosofiya-oblasti-primeneniya-trebovaniya-k-bekendu-i-vse-chto-nuzhno-znat-o-tehnologii-seychas",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76556ced771f7087c13e7cd419b4d92b332b4f2303b2e482b2d55c887bdda5d022d681d90897667006.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TRqvG0UzveMJ:https://vc.ru/dev/567245-reactjs-filosofiya-oblasti-primeneniya-trebovaniya-k-bekendu-i-vse-chto-nuzhno-znat-o-tehnologii-seychas&cd=43&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "ReactJS"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": "20 \u0434\u0435\u043a. 2022 \u0433.",
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 32,
+        "title": "React.js Examples",
+        "link": "https://reactjsexample.com/",
+        "displayed_link": "https://reactjsexample.com",
+        "snippet": "A nice collection of often useful examples done in React.js.",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 reactjsexample.com.",
+                "source_info_link": "https://reactjsexample.com/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f7699fcd65c30c0cba839bbeea3afc6e3a853afe57a46aa1758435f16272f7d6bf8e4dcd6a60dd31664.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nkBkMB-XDpAJ:https://reactjsexample.com/&cd=44&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 33,
+        "title": "React.js - \u043a\u0443\u0440\u0441 ItGid.info, 21 \u044e\u043d\u0438\u0442, \u043f\u0440\u043e\u0435\u043a\u0442",
+        "link": "https://itgid.info/ru/course/reactjs",
+        "displayed_link": "https://itgid.info \u203a course \u203a reactjs",
+        "snippet": "\u041a\u0443\u0440\u0441: ReactJS. \u0423\u0447\u0438\u043c \u0441\u0430\u043c\u044b\u0439 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0439 \u0444\u0440\u0435\u0439\u043c\u0432\u043e\u0440\u043a JavaScript \u2013 React (v.18). \u041a\u0443\u0440\u0441 \u043f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u0434\u043b\u044f \u0442\u0435\u0445, \u043a\u0442\u043e \u0445\u043e\u0447\u0435\u0442 \u043e\u0441\u0432\u043e\u0438\u0442\u044c \u0444\u0440\u0435\u0439\u043c\u0432\u043e\u0440\u043a React \u0438 \u0434\u0435\u043b\u0430\u0442\u044c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 itgid.info.",
+                "source_info_link": "https://itgid.info/ru/course/reactjs",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f765f8aa3801af0bbe296f792fa4c888da2c6663222f54173d53e86ce2df10804891a4034a6e8c2b57d.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Q7-NyOSaUq8J:https://itgid.info/ru/course/reactjs&cd=45&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "ReactJS"
+        ],
+        "rich_snippet": {
+            "bottom": {
+                "detected_extensions": {
+                    "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e_\u0437\u0430\u0434\u0430\u0447_\u0432_\u0414\u0417_\u043a\u0443\u0440\u0441_\u043d\u0430\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0441\u044f": 123
+                },
+                "extensions": [
+                    "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0437\u0430\u0434\u0430\u0447 \u0432 \u0414\u0417: \u043a\u0443\u0440\u0441 \u043d\u0430\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0441\u044f (123 ...",
+                    "\u041e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u044f \u043f\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438: \u043d\u0435\u0442"
+                ]
+            }
+        },
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 34,
+        "title": "React.js cheatsheet - Devhints",
+        "link": "https://devhints.io/react",
+        "displayed_link": "https://devhints.io \u203a react",
+        "snippet": "React.js cheatsheet. React is a JavaScript library for building user interfaces. This guide targets React ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 devhints.io.",
+                "source_info_link": "https://devhints.io/react",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f7646af6f94ece00ffef997ae297db28b47c6ceb66847c38c78dcc4018e9f2961a0249c76257fd5762f.jpeg"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0fWTm4-S_kcJ:https://devhints.io/react&cd=46&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 35,
+        "title": "\u041a\u0443\u0440\u0441 \u043f\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e \u043d\u0430 React.js, \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 ... - Otus",
+        "link": "https://otus.ru/lessons/react/",
+        "displayed_link": "https://otus.ru \u203a lessons \u203a react",
+        "snippet": "\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u0430 \u043e\u043f\u043b\u0430\u0442\u0430 \u0432 \u0440\u0430\u0441\u0441\u0440\u043e\u0447\u043a\u0443. React.js Developer. \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a React.js. \u0421\u0430\u043c\u044b\u0439 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0439 JS-\u0444\u0440\u0435\u0439\u043c\u0432\u043e\u0440\u043a \u0434\u043b\u044f Frontend- ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 otus.ru.",
+                "source_info_link": "https://otus.ru/lessons/react/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f766fb0d3331efc3f5257b770d83a04ec65512c4b6f383bdebc27c0dc64f6df788bc462c67a9a69db26.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sU0es1v4VbgJ:https://otus.ru/lessons/react/&cd=47&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js",
+            "React.js"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 36,
+        "title": "Beginning ReactJS Foundations Building User Interfaces with ...",
+        "link": "https://www.amazon.com/React-Foundations-Building-Interfaces-ReactJS/dp/1119685540",
+        "displayed_link": "https://www.amazon.com \u203a R...",
+        "snippet": "React JS Foundations: Building User Interfaces with ReactJS - An Approachable Guide walks readers through the fundamental concepts of programming with the ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 www.amazon.com.",
+                "source_info_link": "https://www.amazon.com/React-Foundations-Building-Interfaces-ReactJS/dp/1119685540",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f7619406f13f2b5126c058244b38357d343fb8ca1a55278f0189ce4ccf9422e01772c11e48190414961.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Hj0zNGZen3MJ:https://www.amazon.com/React-Foundations-Building-Interfaces-ReactJS/dp/1119685540&cd=48&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React JS",
+            "ReactJS"
+        ],
+        "rich_snippet": {
+            "top": {
+                "detected_extensions": {
+                    "\u0420\u0435\u0439\u0442\u0438\u043d\u0433": 4.6,
+                    "\u043e\u0442\u0437\u044b\u0432\u0430": 24,
+                    "price": 32.99,
+                    "currency": " $"
+                },
+                "extensions": [
+                    "\u0420\u0435\u0439\u0442\u0438\u043d\u0433: 4,6",
+                    "\u200e24 \u043e\u0442\u0437\u044b\u0432\u0430",
+                    "\u200e32,99 $",
+                    "\u200e\u0412 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+                ]
+            },
+            "bottom": {
+                "detected_extensions": {
+                    "price": 1,
+                    "currency": "Publisher Wiley; st edition (February )",
+                    "dimensions_x_x_inches": 7.38
+                },
+                "extensions": [
+                    "Publisher: \u200eWiley; 1st edition (February 11, 2022)",
+                    "Dimensions: \u200e7.38 x 1.16 x 9.25 inches"
+                ]
+            }
+        },
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 37,
+        "title": "React JS - \u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 - Unetway",
+        "link": "https://unetway.com/tutorial/react-js-vvedenie-i-ustanovka",
+        "displayed_link": "https://unetway.com \u203a ... \u203a \u0412\u0435\u0431-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+        "snippet": "ReactJS - \u044d\u0442\u043e \u043e\u0442\u043a\u0440\u044b\u0442\u0430\u044f JavaScript \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u0432, ... case you can remove Babel: * https://reactjs.org/docs/react-without-jsx.html ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 unetway.com.",
+                "source_info_link": "https://unetway.com/tutorial/react-js-vvedenie-i-ustanovka",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76fe055581762feedf4dde95bb60c1a640bb68f95ea1668ec1869f242990e23a03026744f34491d8ae.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6URLl7fVY_YJ:https://unetway.com/tutorial/react-js-vvedenie-i-ustanovka&cd=49&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "ReactJS",
+            "reactjs"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": null,
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    },
+    {
+        "position": 38,
+        "title": "React.js: \u0447\u0442\u043e \u044d\u0442\u043e, \u0434\u043b\u044f \u0447\u0435\u0433\u043e \u043d\u0443\u0436\u0435\u043d \u0438 \u043a\u0430\u043a \u043e\u0441\u0432\u043e\u0438\u0442\u044c \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u043c",
+        "link": "https://sky.pro/media/react-js/",
+        "displayed_link": "https://sky.pro \u203a \u0413\u043b\u0430\u0432\u043d\u0430\u044f \u203a \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+        "snippet": "React (React.js \u0438\u043b\u0438 ReactJS) \u2014 \u044d\u0442\u043e \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 JavaScript \u0441 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u0438\u0441\u0445\u043e\u0434\u043d\u044b\u043c \u043a\u043e\u0434\u043e\u043c. \u0415\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0442, \u0447\u0442\u043e\u0431\u044b \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c ...",
+        "sitelinks": null,
+        "about_this_result": {
+            "source": {
+                "description": "\u042d\u0442\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0441 \u0441\u0430\u0439\u0442\u0430 sky.pro.",
+                "source_info_link": "https://sky.pro/media/react-js/",
+                "security": "\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e",
+                "icon": "https://serpapi.com/searches/642fc2c8382427a2876998f9/images/810772878f9ea11e0d49f4fa18834f76869967eb35af59c639544af48cdeb3c977ceaa5ce88456bc811901aeb4f39d3b7a72602fb4a281bd.png"
+            }
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lMKDS5do3CQJ:https://sky.pro/media/react-js/&cd=50&hl=ru&ct=clnk&gl=ru",
+        "related_results": null,
+        "snippet_highlighted_words": [
+            "React.js",
+            "ReactJS"
+        ],
+        "rich_snippet": null,
+        "related_pages_link": null,
+        "date": "20 \u0438\u044e\u043b. 2022 \u0433.",
+        "thumbnail": null,
+        "key_moments": null,
+        "video_link": null
+    }
+]

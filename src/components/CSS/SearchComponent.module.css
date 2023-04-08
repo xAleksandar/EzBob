@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+.SearchComponent {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(182, 182, 182);
+    border-radius: 40px;
+    max-width: 40%;
+    padding: 20px;
+    margin: 100px auto;
+}
+
+
+.SearchBanner {
+    font-size: 100px;
+    font-family: "Neucha";
+    align-items: center;
+    margin: 0px auto;
+}
+
+.SearchBar {
+    padding: 0px 0px 0px 15px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.SearchBarLine {
+    display: flex;
+    flex-direction: row;
+}
+
+input {
+    outline: none;
+    box-shadow: none;
+  }  
+
+.SearchForm {
+    border: none;
+    width: 400px;
+}
+
+.RemoveSearchBtn {
+    margin: 10px 0px 0px 5px;
+    max-width: 40px;
+    max-height: 30px;
+}
+
+.PossibleResults {
+    max-width: 95%;
+    border-top: 2px solid rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.ResultBody {
+    position: relative;
+    width: 100%;
+    height: 34px;
+}
+
+.OpenedResult {
+    position: absolute;
+    top: -10px;
+    left: -5px;
+    color: purple;
+    border: none;
+    box-shadow: none;
+    background-color: white;
+    width: 80%;
+    font-size: 20px;
+    margin: 10px;
+    text-align: left;
+}
+
+.OpenedResult:hover {
+    background-color: rgb(240, 240, 240);
+}
+
+.Result {
+    position: relative;
+    border: none;
+    box-shadow: none;
+    background-color: white;
+    width: 100%;
+    font-size: 20px;
+    margin: 10px;
+    text-align: left;
+}
+
+.Result:hover {
+    background-color: rgb(240, 240, 240);
+}
+
+.ResultSvg {
+    padding: 0px 10px 0px 0px;
+}
+
+.SearchBtn {
+    margin: 15px auto;
+    padding: 10px 60px;
+    border: none;
+    border-radius: 25px;
+}
+
+.SearchBtn:hover {
+    transform: scale(1.03,1.05);
+    background-color: greenyellow;
+}
+
+.RemoveResultBtn {
+    position: absolute;
+    right: 0px;
+    top: 8px;
+    border: none;
+    box-shadow: none;
+    background-color: white;
+}
+
+.RemoveResultBtn:hover {
+    background-color: rgb(240, 240, 240);
+}
