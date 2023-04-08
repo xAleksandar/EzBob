@@ -12,9 +12,9 @@ export const ResultsComponent = ({
     searchResults
 } : {
     searchString: string, 
-    onSearchStringChange: ({}:string) => void, 
+    onSearchStringChange: (x:string) => void, 
     possibleResults: PossibleResultsType[],
-    search: ({}:string) => void, 
+    search: (x:string) => void, 
     searchResults: ResultType[]
 }) => {
     

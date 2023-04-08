@@ -12,9 +12,9 @@ export const LineSearchComponent = ({
     search
 } : {
     searchString: string, 
-    onSearchStringChange: ({}:string) => void, 
+    onSearchStringChange: (x:string) => void, 
     possibleResults: PossibleResultsType[], 
-    search: ({}:string) => void
+    search: (x:string) => void
 }) => {
     
     const [isFocused, setIsFocused] = useState(false);
