@@ -53,7 +53,7 @@ const useDatabase = () => {
             }
         }
 
-        setPossibleResults({... _possibleResults});
+        setPossibleResults({..._possibleResults});
         return _possibleResults;
     }
 

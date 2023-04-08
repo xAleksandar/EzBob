@@ -13,10 +13,10 @@ export const SearchComponent = ({
         removeFromMemory 
     } : {
         searchString: string, 
-        onSearchStringChange: ({}:string) => void, 
+        onSearchStringChange: (x:string) => void, 
         possibleResults: PossibleResultsType[], 
-        search: ({}:string) => void,
-        removeFromMemory: ({}:string) => PossibleResultsType[]
+        search: (x:string) => void,
+        removeFromMemory: (x:string) => PossibleResultsType[]
     }) => {
     
     const [isFocused, setIsFocused] = useState(false);

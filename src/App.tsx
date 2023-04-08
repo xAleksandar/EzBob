@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-      { searchResults.length == 0 && !initialSearch ? (
+      { searchResults.length === 0 && !initialSearch ? (
         <div className={styles.SearchComponent}>
           <SearchComponent 
             searchString = {searchString}
